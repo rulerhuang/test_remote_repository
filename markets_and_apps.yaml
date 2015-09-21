@@ -1,0 +1,253 @@
+豌豆荚:
+  apps:
+    - parent_category: 社交网络
+      child_category:  聊天社交
+      url:             http://www.wandoujia.com/tag/聊天社交/
+#    - parent_category: 社交网络
+#      child_category:  电话通讯
+#      url:             http://www.wandoujia.com/tag/电话通讯/
+#    - parent_category: 影音图 
+#      child_category:  视频 
+#      url:             http://www.wandoujia.com/tag/视频/ 
+#    - parent_category: 影音图 
+#      child_category:  音乐 
+#      url:             http://www.wandoujia.com/tag/音乐/ 
+#    - parent_category: 影音图 
+#      child_category:  图像 
+#      url:             http://www.wandoujia.com/tag/图像/
+#    - parent_category: 媒体出版 
+#      child_category:  新闻阅读,新闻·资讯 
+#      url:             http://www.wandoujia.com/tag/新闻·资讯/ 
+#    - parent_category: 媒体出版 
+#      child_category:  新闻阅读,日报·杂志
+#      url:             http://www.wandoujia.com/tag/日报·杂志/
+#    - parent_category: 媒体出版 
+#      child_category:  新闻阅读,电子书
+#      url:             http://www.wandoujia.com/tag/电子书/
+#    - parent_category: 媒体出版 
+#      child_category:  新闻阅读,听书
+#      url:             http://www.wandoujia.com/tag/听书/
+#    - parent_category: 媒体出版 
+#      child_category:  新闻阅读,漫画
+#      url:             http://www.wandoujia.com/tag/漫画/
+#    - parent_category: 网上购物 
+#      child_category:  购物 
+#      url:             http://www.wandoujia.com/tag/购物/
+#    - parent_category: 金融理财 
+#      child_category:  金融理财 
+#      url:             http://www.wandoujia.com/tag/金融理财/
+  games:
+    - parent_category:   游戏类
+      child_category:    游戏
+      url:               http://apps.wandoujia.com/tag/全部游戏?pos=w/index/tag&page=
+
+
+360手机助手:
+  apps:
+    - parent_category: 社交网络
+      child_category:  通讯社交
+      url:             http://zhushou.360.cn/list/index/cid/12/
+    - parent_category: 影音图 
+      child_category:  影音视听 
+      url:             http://zhushou.360.cn/list/index/cid/14/ 
+    - parent_category: 影音图 
+      child_category:  摄影摄像 
+      url:             http://zhushou.360.cn/list/index/cid/102228/ 
+    - parent_category: 媒体出版 
+      child_category:  新闻阅读 
+      url:             http://zhushou.360.cn/list/index/cid/15/ 
+    - parent_category: 网上购物 
+      child_category:  购物优惠  
+      url:             http://zhushou.360.cn/list/index/cid/102230/ 
+    - parent_category: 金融理财 
+      child_category:  金融购物 
+      url:             http://zhushou.360.cn/list/index/cid/102139/ 
+  games:
+    - parent_category: 游戏类
+      child_category:  游戏
+      url:             http://zhushou.360.cn/list/index/cid/2/
+
+
+小米应用商店:
+    apps:
+     - parent_category: 社交网络
+       child_category:  聊天与社交
+       url:             http://app.mi.com/category/2 
+#     - parent_category: 影音图 
+#       child_category:  影音视听 
+#       url:             http://app.mi.com/category/27
+#     - parent_category: 媒体出版 
+#       child_category:  图书与阅读 
+#       url:             http://app.mi.com/category/7
+#     - parent_category: 媒体出版 
+#       child_category:  新闻  
+#       url:             http://app.mi.com/category/11
+#     - parent_category: 网上购物 
+#       child_category:  时尚与购物 
+#       url:             http://app.mi.com/category/9
+#     - parent_category: 金融理财 
+#       child_category:  理财  
+#       url:             http://app.mi.com/category/1
+#	games:
+#    - parent_category: 游戏类
+#      child_category:  游戏
+#       url:             http://app.mi.com/gAllHotList
+
+百度手机助手:
+    apps:
+     - parent_category: 社交网络 
+       child_category:  社交通讯 
+       url:             http://shouji.baidu.com/software/list?cid=503 
+
+     - parent_category: 影音图 
+       child_category:  影音播放 
+       url:             http://shouji.baidu.com/software/list?cid=506 
+
+     - parent_category: 影音图 
+       child_category:  拍摄美化 
+       url:             http://shouji.baidu.com/software/list?cid=508 
+
+     - parent_category: 媒体出版 
+       child_category:  资讯阅读,新闻 
+       url:             http://shouji.baidu.com/software/list?cid=505&boardid=board_100_035
+
+     - parent_category: 媒体出版 
+       child_category:  资讯阅读,漫画
+       url:             http://shouji.baidu.com/software/list?cid=505&boardid=board_100_036
+
+     - parent_category: 媒体出版 
+       child_category:  资讯阅读,电子书
+       url:             http://shouji.baidu.com/software/list?cid=505&boardid=board_100_038
+
+     - parent_category: 网上购物 
+       child_category:  理财购物,网购
+       url:             http://shouji.baidu.com/software/list?cid=510&boardid=board_100_023 
+
+     - parent_category: 金融理财 
+       child_category:  理财购物,记账
+       url:             http://shouji.baidu.com/software/list?cid=510&boardid=board_100_025 
+
+     - parent_category: 金融理财 
+       child_category:  理财购物,彩票
+       url:             http://shouji.baidu.com/software/list?cid=510&boardid=board_100_026
+
+     - parent_category: 金融理财 
+       child_category:  理财购物,股票基金
+       url:             http://shouji.baidu.com/software/list?cid=510&boardid=board_100_027
+
+     - parent_category: 金融理财 
+       child_category:  理财购物,银行 
+       url:             http://shouji.baidu.com/software/list?cid=510&boardid=board_100_028
+
+    games:
+     - parent_category: 游戏类
+       child_category:  休闲益智 
+       url:             http://shouji.baidu.com/game/list?cid=401 
+
+     - parent_category: 游戏类
+       child_category:  动作射击 
+       url:             http://shouji.baidu.com/game/list?cid=403 
+
+     - parent_category: 游戏类
+       child_category:  赛车竞速 
+       url:             http://shouji.baidu.com/game/list?cid=406 
+
+     - parent_category: 游戏类
+       child_category:  棋牌桌游 
+       url:             http://shouji.baidu.com/game/list?cid=407 
+
+     - parent_category: 游戏类
+       child_category:  经营养成 
+       url:             http://shouji.baidu.com/game/list?cid=408 
+
+     - parent_category: 游戏类
+       child_category:  角色扮演 
+       url:             http://shouji.baidu.com/game/list?cid=402 
+
+     - parent_category: 游戏类
+       child_category:  体育竞技 
+       url:             http://shouji.baidu.com/game/list?cid=405
+
+     - parent_category: 游戏类
+       child_category:  模拟辅助 
+       url:             http://shouji.baidu.com/game/list?cid=404
+
+
+应用宝:
+    apps:
+     - parent_category: 社交网络
+       child_category:  腾讯软件
+       url:             http://app.qq.com/#id=catelist&cateid=-10
+       #url:             http://app.qq.com/#id=catelist&cateid=-10&catename=腾讯软件&type=app&catevia=YYBH5.STORE.APP.CATEGORY.TENCENT 
+#    games:
+
+安智:
+    apps:
+     - parent_category: 社交网络
+       child_category:  社交 
+       url:             http://www.anzhi.com/sort_52_ 
+     - parent_category: 社交网络
+       child_category:  通信 
+       url:             http://www.anzhi.com/sort_51_ 
+     - parent_category: 影音图 
+       child_category:  多媒体,音乐音频 
+       url:             http://www.anzhi.com/sort_43_ 
+     - parent_category: 影音图 
+       child_category:  多媒体,视频播放
+       url:             http://www.anzhi.com/sort_45_ 
+     - parent_category: 影音图 
+       child_category:  多媒体,摄影美化
+       url:             http://www.anzhi.com/sort_46_ 
+     - parent_category: 媒体出版  
+       child_category:  学习阅读,新闻阅读 
+       url:             http://www.anzhi.com/sort_53_ 
+     - parent_category: 媒体出版  
+       child_category:  学习阅读,阅读 
+       url:             http://www.anzhi.com/sort_55_ 
+     - parent_category: 金融理财 
+       child_category:  生活服务,金融理财 
+       url:             http://www.anzhi.com/sort_49_ 
+    games:
+     - parent_category: 游戏类 
+       child_category:  游戏 
+       url:             http://www.anzhi.com/list_2_ 
+
+
+安卓市场:
+    apps:
+     - parent_category: 社交网络
+       child_category:  社交 
+       url:             http://apk.hiapk.com/apps/Social 
+
+     - parent_category: 社交网络
+       child_category:  通信 
+       url:             http://apk.hiapk.com/apps/Communication 
+
+     - parent_category: 影音图 
+       child_category:  影音  
+       url:             http://apk.hiapk.com/apps/MediaAndVideo 
+
+     - parent_category: 影音图 
+       child_category:  拍照 
+       url:             http://apk.hiapk.com/apps/Photography 
+
+     - parent_category: 媒体出版  
+       child_category:  阅读 
+       url:             http://apk.hiapk.com/apps/Reading 
+
+     - parent_category: 媒体出版  
+       child_category:  资讯  
+       url:             http://apk.hiapk.com/apps/NewsAndMagazines 
+
+     - parent_category: 网上购物 
+       child_category:  购物 
+       url:             http://apk.hiapk.com/apps/Shopping 
+
+     - parent_category: 金融理财 
+       child_category:  理财 
+       url:             http://apk.hiapk.com/apps/Finance 
+
+    games:
+     - parent_category: 游戏类 
+       child_category:  游戏 
+       url:             http://apk.hiapk.com/games 
