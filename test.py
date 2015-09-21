@@ -3,3 +3,4 @@
 
 if __name__ == '__main__':
     print 'how are you'
+    print 'protected master'
